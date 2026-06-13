@@ -114,3 +114,18 @@ h1.page-header{
     background-color: #f1ebe5;
     transition: background-color 0.2s ease;
 }
+
+/* cheshire cat animation */
+.cat-container {
+    max-width: 300px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.fading-cat{
+    max-width: 100%;
+    height: auto;
+    animation: cheshireFade 12s ease-in-out infinite;
+}

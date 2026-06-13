@@ -88,3 +88,24 @@ h1.page-header{
     border-radius: 8px;
     overflow: hidden;
 }
+
+.tea-party-table th {
+    background-color: #5a4a42;
+    color: #fff;
+    text-align: left;
+    padding: 12px 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tea-party-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #333;
+    line-height: 1.4;
+}
+
+.tea-party-table tbody tr:nth-child(even) {
+    background-color: #fcf9f6;
+}

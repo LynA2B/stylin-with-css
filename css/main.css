@@ -14,3 +14,9 @@ body{
     margin: auto;
     padding: 1%;
 }
+
+/* footer */
+footer{
+    clear:both;
+    text-align: center;
+}

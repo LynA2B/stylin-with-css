@@ -60,3 +60,18 @@ h1.page-header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6;
 }
+
+.story-pic {
+    float: right;
+    max-width: 250px;
+    height: auto;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    border: 1 solid #ccc;
+    box-shadow: 3px 3px 8px rbga(0,0,0,0.1);
+}
+
+.story-block p {
+    margin-bottom: 15px;
+    text-align: justify;
+}

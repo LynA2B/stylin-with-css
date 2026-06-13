@@ -20,3 +20,26 @@ footer{
     clear:both;
     text-align: center;
 }
+
+/* navigation */
+nav{
+    text-align: center;
+}
+
+nav a{
+    color: #000;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 2%;
+}
+
+nav a:hover{
+    text-decoration: none;
+}
+

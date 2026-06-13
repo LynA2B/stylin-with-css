@@ -109,3 +109,8 @@ h1.page-header{
 .tea-party-table tbody tr:nth-child(even) {
     background-color: #fcf9f6;
 }
+
+.tea-party-table tbody tr:hover {
+    background-color: #f1ebe5;
+    transition: background-color 0.2s ease;
+}
